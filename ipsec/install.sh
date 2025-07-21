@@ -59,7 +59,7 @@ $DIR/adduser.sh
 echo
 echo "Starting strongSwan and xl2tp..."
 service xl2tpd restart
-service strongswan restart
+service strongswan-starter restart
 
 echo
 echo "Installation script has been completed!"
