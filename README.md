@@ -15,10 +15,10 @@ Simple PPTP, L2TP/IPsec, OpenVPN installers for fast, user-friendly deployment.
 
 ## Installation
 
-`sudo apt update`
-Install git: `sudo apt install git`
-Install ufw: `sudo apt install ufw`
-Download: `git clone --depth=1 https://github.com/hhassan997/vpn-install.git`
+* `sudo apt update`
+* Install git: `sudo apt install git`
+* Install ufw: `sudo apt install ufw`
+* Download: `git clone --depth=1 https://github.com/hhassan997/vpn-install.git`
 
 And then some of (under *root* or using *sudo*):
 * `vpn-install/pptp/install.sh`
