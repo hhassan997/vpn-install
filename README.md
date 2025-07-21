@@ -14,6 +14,10 @@ Simple PPTP, L2TP/IPsec, OpenVPN installers for fast, user-friendly deployment.
 * CentOS (tested on CentOS 7)
 
 ## Installation
+
+`sudo apt update`
+Install git: `sudo apt install git`
+Install ufw: `sudo apt install ufw`
 Download: `git clone --depth=1 https://github.com/hhassan997/vpn-install.git`
 
 And then some of (under *root* or using *sudo*):
